@@ -1,0 +1,26 @@
+{
+  "name": "gastru",
+  "version": "1.0.0",
+  "description": "This is a smart way for using a menu",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:vilellaj/gastru"
+  },
+  "keywords": [
+    "node.js",
+    "angular",
+    "api",
+    "jwt"
+  ],
+  "author": "Jonathan Vilella",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6"
+  }
+}
